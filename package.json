@@ -1,0 +1,17 @@
+{
+  "name": "node_js_test",
+  "version": "1.0.0",
+  "description": "checking out Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Angalig",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
